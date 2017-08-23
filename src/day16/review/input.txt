@@ -1,0 +1,5 @@
+name=ChungJin Kang(°­ÃæÁø)
+age=26
+data=100,80,50,70,60
+userid=dba
+password=1234

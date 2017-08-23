@@ -1,0 +1,19 @@
+package day15;
+
+public class SamsungTV implements Television {
+	public void powerOn() {
+		System.out.println(getClass().getSimpleName() + "전원을 켠다.");
+	}
+	public void powerOff() {
+		System.out.println(getClass().getSimpleName() + "전원을 끈다.");
+	}
+	
+	@Override
+	public void turnOn() {
+		powerOn();
+	}
+	@Override
+	public void turnOff() {
+		powerOff();
+	}
+}

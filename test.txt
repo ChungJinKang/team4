@@ -1,0 +1,5 @@
+홍길동/010-1234-5678/HGD@gmail.com
+김길동/010-1111-2222/kim@naver.com
+고길동/010-1111-3333/ko@naver.com
+박길동/010-1111-4444/park@naver.com
+하길동/010-1111-5555/ha@naver.com

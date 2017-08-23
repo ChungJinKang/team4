@@ -1,0 +1,4 @@
+java programming / 20000
+SQL / 6000
+Spring Framework / 33000
+Database / 22000
